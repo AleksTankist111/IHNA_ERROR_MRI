@@ -12,6 +12,7 @@ Set of scripts for processing the fMRI data for the grant.
 
 2 файла из представленных - вспомогательны, и необходимы для работы большинства других скриптов. Это файлы 
 *train_test_preparing.py*
+
 *covariance_processing.py*
 
 Эти файлы взяты из другого проекта, и необходимы только для подготовки данных перед подачей на MLA. 
